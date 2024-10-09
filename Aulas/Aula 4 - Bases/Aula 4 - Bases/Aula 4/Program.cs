@@ -13,7 +13,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//using System.Globalization.CultureUnfo.InvarintCode
 /* DATA TYPES 
  * byte    
  * sbyte    
@@ -80,8 +80,11 @@ namespace Aula_4
 
             Console.WriteLine("Escolha a operação(+,-,*,/): ");
             operacao = Console.ReadLine();
-
-            if (operacao == "+")
+            if (segundoValor<0)
+            {
+                bIncorreto = false;
+            }
+            else if (operacao == "+")
             {
                 valorFinal = primeiroValor + segundoValor;
             }
@@ -95,7 +98,7 @@ namespace Aula_4
             }
             else if (operacao == "/")
             {
-                if (segundoValor > 0)
+                if (segundoValor >= 0)
                 {
                     valorFinal = primeiroValor / segundoValor;
                 }
