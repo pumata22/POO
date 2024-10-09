@@ -1,0 +1,7 @@
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 4 - Bases\Aula 4 - Bases\Aula 4\obj\Debug\Aula 4.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 4 - Bases\Aula 4 - Bases\Aula 4\obj\Debug\Aula 4.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 4 - Bases\Aula 4 - Bases\Aula 4\bin\Debug\Aula 4.exe.config
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 4 - Bases\Aula 4 - Bases\Aula 4\bin\Debug\Aula 4.exe
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 4 - Bases\Aula 4 - Bases\Aula 4\bin\Debug\Aula 4.pdb
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 4 - Bases\Aula 4 - Bases\Aula 4\obj\Debug\Aula 4.exe
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 4 - Bases\Aula 4 - Bases\Aula 4\obj\Debug\Aula 4.pdb

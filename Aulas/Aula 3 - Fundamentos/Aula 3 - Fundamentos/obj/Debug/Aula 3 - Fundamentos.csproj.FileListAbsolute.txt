@@ -1,0 +1,7 @@
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 3 - Fundamentos\Aula 3 - Fundamentos\bin\Debug\Aula_3___Fundamentos.exe.config
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 3 - Fundamentos\Aula 3 - Fundamentos\bin\Debug\Aula_3___Fundamentos.exe
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 3 - Fundamentos\Aula 3 - Fundamentos\bin\Debug\Aula_3___Fundamentos.pdb
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 3 - Fundamentos\Aula 3 - Fundamentos\obj\Debug\Aula 3 - Fundamentos.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 3 - Fundamentos\Aula 3 - Fundamentos\obj\Debug\Aula 3 - Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 3 - Fundamentos\Aula 3 - Fundamentos\obj\Debug\Aula_3___Fundamentos.exe
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 3 - Fundamentos\Aula 3 - Fundamentos\obj\Debug\Aula_3___Fundamentos.pdb
