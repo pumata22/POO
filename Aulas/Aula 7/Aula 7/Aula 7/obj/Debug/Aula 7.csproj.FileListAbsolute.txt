@@ -1,0 +1,7 @@
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 7\Aula 7\Aula 7\obj\Debug\Aula 7.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 7\Aula 7\Aula 7\obj\Debug\Aula 7.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 7\Aula 7\Aula 7\bin\Debug\Aula 7.exe.config
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 7\Aula 7\Aula 7\bin\Debug\Aula 7.exe
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 7\Aula 7\Aula 7\bin\Debug\Aula 7.pdb
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 7\Aula 7\Aula 7\obj\Debug\Aula 7.exe
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 7\Aula 7\Aula 7\obj\Debug\Aula 7.pdb

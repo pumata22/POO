@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 4 - Bases\\Aula 4 - Bases\\Aula 4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aulas\\Aula 4 - Bases\\Aula 4 - Bases\\Aula 4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 5 - Classes\\Aula 5 - Classes\\Aula 5 - Classes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aulas\\Aula 5 - Classes\\Aula 5 - Classes\\Aula 5 - Classes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +14,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 4 - Bases\\Aula 4 - Bases\\Aula 4\\Program.cs",
-              "RelativeDocumentMoniker": "Aulas\\Aula 4 - Bases\\Aula 4 - Bases\\Aula 4\\Program.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 4 - Bases\\Aula 4 - Bases\\Aula 4\\Program.cs",
-              "RelativeToolTip": "Aulas\\Aula 4 - Bases\\Aula 4 - Bases\\Aula 4\\Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAWwHUAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 5 - Classes\\Aula 5 - Classes\\Aula 5 - Classes\\Program.cs",
+              "RelativeDocumentMoniker": "Aulas\\Aula 5 - Classes\\Aula 5 - Classes\\Aula 5 - Classes\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 5 - Classes\\Aula 5 - Classes\\Aula 5 - Classes\\Program.cs",
+              "RelativeToolTip": "Aulas\\Aula 5 - Classes\\Aula 5 - Classes\\Aula 5 - Classes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T16:23:40.231Z",
+              "WhenOpened": "2024-10-09T16:01:33.254Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,7 @@
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 5 - Classes\Aula 5 - Classes\Aula 5 - Classes\obj\Debug\Aula 5 - Classes.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 5 - Classes\Aula 5 - Classes\Aula 5 - Classes\obj\Debug\Aula 5 - Classes.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 5 - Classes\Aula 5 - Classes\Aula 5 - Classes\bin\Debug\Aula 5 - Classes.exe.config
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 5 - Classes\Aula 5 - Classes\Aula 5 - Classes\bin\Debug\Aula 5 - Classes.exe
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 5 - Classes\Aula 5 - Classes\Aula 5 - Classes\bin\Debug\Aula 5 - Classes.pdb
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 5 - Classes\Aula 5 - Classes\Aula 5 - Classes\obj\Debug\Aula 5 - Classes.exe
+C:\Users\Hp\OneDrive\Desktop\ipca\LEIM\2ºAno_1ºSemestre\Programação Orientada a Objetos\POO\Aulas\Aula 5 - Classes\Aula 5 - Classes\Aula 5 - Classes\obj\Debug\Aula 5 - Classes.pdb

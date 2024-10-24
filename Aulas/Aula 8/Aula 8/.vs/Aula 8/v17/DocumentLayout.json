@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|c:\\users\\hp\\onedrive\\desktop\\ipca\\leim\\2\u00BAano_1\u00BAsemestre\\programa\u00E7\u00E3o orientada a objetos\\poo\\aulas\\aula 8\\aula 8\\aula 8\\leao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|solutionrelative:aula 8\\leao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|c:\\users\\hp\\onedrive\\desktop\\ipca\\leim\\2\u00BAano_1\u00BAsemestre\\programa\u00E7\u00E3o orientada a objetos\\poo\\aulas\\aula 8\\aula 8\\aula 8\\temperaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|solutionrelative:aula 8\\temperaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|c:\\users\\hp\\onedrive\\desktop\\ipca\\leim\\2\u00BAano_1\u00BAsemestre\\programa\u00E7\u00E3o orientada a objetos\\poo\\aulas\\aula 8\\aula 8\\aula 8\\diasdasemana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|solutionrelative:aula 8\\diasdasemana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|c:\\users\\hp\\onedrive\\desktop\\ipca\\leim\\2\u00BAano_1\u00BAsemestre\\programa\u00E7\u00E3o orientada a objetos\\poo\\aulas\\aula 8\\aula 8\\aula 8\\foca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|solutionrelative:aula 8\\foca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|c:\\users\\hp\\onedrive\\desktop\\ipca\\leim\\2\u00BAano_1\u00BAsemestre\\programa\u00E7\u00E3o orientada a objetos\\poo\\aulas\\aula 8\\aula 8\\aula 8\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|solutionrelative:aula 8\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|c:\\users\\hp\\onedrive\\desktop\\ipca\\leim\\2\u00BAano_1\u00BAsemestre\\programa\u00E7\u00E3o orientada a objetos\\poo\\aulas\\aula 8\\aula 8\\aula 8\\animalabstrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|solutionrelative:aula 8\\animalabstrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|c:\\users\\hp\\onedrive\\desktop\\ipca\\leim\\2\u00BAano_1\u00BAsemestre\\programa\u00E7\u00E3o orientada a objetos\\poo\\aulas\\aula 8\\aula 8\\aula 8\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|solutionrelative:aula 8\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\aula 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|solutionrelative:aula 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|c:\\users\\hp\\onedrive\\desktop\\ipca\\leim\\2\u00BAano_1\u00BAsemestre\\programa\u00E7\u00E3o orientada a objetos\\poo\\aulas\\aula 8\\aula 8\\aula 8\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|solutionrelative:aula 8\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|c:\\users\\hp\\onedrive\\desktop\\ipca\\leim\\2\u00BAano_1\u00BAsemestre\\programa\u00E7\u00E3o orientada a objetos\\poo\\aulas\\aula 8\\aula 8\\aula 8\\ianimal2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|solutionrelative:aula 8\\ianimal2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|c:\\users\\hp\\onedrive\\desktop\\ipca\\leim\\2\u00BAano_1\u00BAsemestre\\programa\u00E7\u00E3o orientada a objetos\\poo\\aulas\\aula 8\\aula 8\\aula 8\\animal3abstrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|solutionrelative:aula 8\\animal3abstrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|c:\\users\\hp\\onedrive\\desktop\\ipca\\leim\\2\u00BAano_1\u00BAsemestre\\programa\u00E7\u00E3o orientada a objetos\\poo\\aulas\\aula 8\\aula 8\\aula 8\\cao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|solutionrelative:aula 8\\cao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|c:\\users\\hp\\onedrive\\desktop\\ipca\\leim\\2\u00BAano_1\u00BAsemestre\\programa\u00E7\u00E3o orientada a objetos\\poo\\aulas\\aula 8\\aula 8\\aula 8\\girafa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|solutionrelative:aula 8\\girafa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|c:\\users\\hp\\onedrive\\desktop\\ipca\\leim\\2\u00BAano_1\u00BAsemestre\\programa\u00E7\u00E3o orientada a objetos\\poo\\aulas\\aula 8\\aula 8\\aula 8\\estudanteleim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680A497-DBF9-453D-B545-FF376CD530B2}|Aula 8\\Aula 8.csproj|solutionrelative:aula 8\\estudanteleim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiasDaSemana.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\DiasDaSemana.cs",
+              "RelativeDocumentMoniker": "Aula 8\\DiasDaSemana.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\DiasDaSemana.cs",
+              "RelativeToolTip": "Aula 8\\DiasDaSemana.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:24:38.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "temperaturas.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\temperaturas.cs",
+              "RelativeDocumentMoniker": "Aula 8\\temperaturas.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\temperaturas.cs",
+              "RelativeToolTip": "Aula 8\\temperaturas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:24:24.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Aula 8\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\Pessoa.cs",
+              "RelativeToolTip": "Aula 8\\Pessoa.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:10:11.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Animal3Abstrato.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\Animal3Abstrato.cs",
+              "RelativeDocumentMoniker": "Aula 8\\Animal3Abstrato.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\Animal3Abstrato.cs",
+              "RelativeToolTip": "Aula 8\\Animal3Abstrato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:05:14.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnimalAbstrato.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\AnimalAbstrato.cs",
+              "RelativeDocumentMoniker": "Aula 8\\AnimalAbstrato.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\AnimalAbstrato.cs",
+              "RelativeToolTip": "Aula 8\\AnimalAbstrato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:01:16.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\IAnimal.cs",
+              "RelativeDocumentMoniker": "Aula 8\\IAnimal.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\IAnimal.cs",
+              "RelativeToolTip": "Aula 8\\IAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:01:00.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Foca.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\Foca.cs",
+              "RelativeDocumentMoniker": "Aula 8\\Foca.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\Foca.cs",
+              "RelativeToolTip": "Aula 8\\Foca.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:59:30.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Girafa.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\Girafa.cs",
+              "RelativeDocumentMoniker": "Aula 8\\Girafa.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\Girafa.cs",
+              "RelativeToolTip": "Aula 8\\Girafa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:58:16.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cao.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\Cao.cs",
+              "RelativeDocumentMoniker": "Aula 8\\Cao.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\Cao.cs",
+              "RelativeToolTip": "Aula 8\\Cao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:58:04.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\Animal.cs",
+              "RelativeDocumentMoniker": "Aula 8\\Animal.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\Animal.cs",
+              "RelativeToolTip": "Aula 8\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:56:14.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EstudanteLEIM.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\EstudanteLEIM.cs",
+              "RelativeDocumentMoniker": "Aula 8\\EstudanteLEIM.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\EstudanteLEIM.cs",
+              "RelativeToolTip": "Aula 8\\EstudanteLEIM.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA5wB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:43:38.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Leao.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\Leao.cs",
+              "RelativeDocumentMoniker": "Aula 8\\Leao.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\Leao.cs",
+              "RelativeToolTip": "Aula 8\\Leao.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:39:52.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAnimal2.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\IAnimal2.cs",
+              "RelativeDocumentMoniker": "Aula 8\\IAnimal2.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\IAnimal2.cs",
+              "RelativeToolTip": "Aula 8\\IAnimal2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:38:25.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\Program.cs",
+              "RelativeDocumentMoniker": "Aula 8\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ipca\\LEIM\\2\u00BAAno_1\u00BASemestre\\Programa\u00E7\u00E3o Orientada a Objetos\\POO\\Aulas\\Aula 8\\Aula 8\\Aula 8\\Program.cs",
+              "RelativeToolTip": "Aula 8\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:19:16.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
